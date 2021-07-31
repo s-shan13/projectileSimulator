@@ -1,5 +1,5 @@
 # Projectile Simulator
-A physics projectile simulator made with python.
+A physics projectile simulator made with python (using pygame).
 
 
 ## Features
